@@ -1,0 +1,171 @@
+.header{
+	width: 100%;
+}
+.hbox{
+	height: 36px;
+	border-bottom:1px solid #DFDFDF;;
+}
+.header .top{
+	width: 1200px;
+	margin: 0 auto;
+	line-height: 36px;
+}
+.header .top li{
+	float: left;
+	padding: 0 15px;
+	font-size: 12px;
+	background: url(../images/headerTop_ulli.png) no-repeat top right;;
+}
+.se{
+	color: #0066CC;
+}
+.zbox{
+	width: 1200px;
+	height: 96px;
+	margin: 0 auto;
+}
+.log{
+	float: left;
+	margin-top: 25px;
+}
+.log img{
+	width: 381px;
+    height: 71px;
+}
+.trbox{
+	float: right;
+	margin-top: 40px;
+	width: 298px;
+	height: 55px;
+	
+}
+.fs{
+	width: 298px;
+    height: 32px;
+    background: url(../images/searchDiv_form.png) no-repeat top right;
+}
+.inp1{
+	width: 202px;
+    height: 28px;
+    color: #999999;
+    line-height: 28px;
+    margin-top: 2px;
+    margin-left: 40px;
+    border: none;
+}
+.inp2{
+	width: 55px;
+    height: 32px;
+    float: right;
+    cursor: pointer;
+    background: Transparent;
+    border: none;
+}
+.sul{
+	margin-top: 7px;
+	list-style: none;
+}
+.sul li{
+	float: left;
+	padding-right: 14px;
+    color: #666666;
+}
+.sul li a{
+	color: #666666;
+}
+.xbox{
+	width: 100%;
+	height: 40px;
+	margin-top: 20px;
+    line-height: 40px;
+    background: #005BAC;
+}
+.xbox .box1{
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+.pindao{
+	position: absolute;
+	width: 236px;
+}
+.p_tu{
+	width: 236px;
+    height: 40px;
+}
+.p_tu img{
+	float: left;
+	margin: 10px 10px 0px 40px ;
+      
+}
+.p_tu a{
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.my_ul{
+	position: absolute;
+	font-size: 16px;
+	width: 236px;
+    height: 457px;
+    background-color: #005BAC;
+    top: 40px;
+    left: 0;
+    z-index: 10;
+    line-height: 40px;
+    display: none;
+}
+.my_ul li{
+	height: 55px;
+    line-height: 55px;
+    border-top: solid 1px #4084C1;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.my_ul li img{
+	float: left;
+    margin: 17px 10px 0 22px;
+}
+.my_ul li a{
+	color: #FFFFFF;
+	float: left;
+}
+.my_ul li span{
+	color: #FFFFFF;
+	margin-left: 10px;
+}
+.cha{
+	position: absolute;
+	text-align: center;
+	width: 253px;
+    height: 53px;
+    line-height: 53px;
+    background-color: #0773D3;
+    left: -10px;
+    top: 330px;
+    z-index: 11;
+}
+.cha img{
+	width: 31px;
+    height: 38px;
+}
+.cha a{
+	color: #FFFFFF;
+	margin-left: 5px;
+	font-weight: bold;
+	font-size: 16px;
+}
+.my_ul2{
+	margin-left: 280px;
+	font-size: 16px;
+}
+.my_ul2 li{
+	float: left;
+	padding: 0 32px;
+}
+.my_ul2 li a{
+	float: left;
+	color: #FFFFFF;
+}
+.my_ul2 li:first-child img{
+	margin: -5px 10px 0px 0px;
+}

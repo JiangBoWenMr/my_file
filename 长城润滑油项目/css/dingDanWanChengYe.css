@@ -1,0 +1,148 @@
+.content{
+	width: 1200px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+.p1{
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.p1 span a{
+	color: #666
+}
+.box2{
+	margin-top: 15px;
+}
+.box2 img{
+	width: 1200px;
+	height: 300px;
+}
+.ddtj{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 15px;
+	/*height: 200px;*/
+	text-align: center;
+	/*background: red;*/
+}
+.ptj{
+	font-size: 18px;
+	line-height: 28px;
+}
+.ptj .pt1{
+	position: relative;
+	display: inline-block;
+	width: 23px;
+    height: 23px;
+    background: url(../images/blBg.png) no-repeat -442px -144px;
+    top: 5px;
+    right: 5px;
+}
+.hx{
+	margin-top: 15px;
+}
+.hx span{
+	font-size: 16px;
+    line-height: 34px;
+    padding: 6px 25px;
+    background-color: #005BAA;	
+    color: #fff;
+}
+.xinxi{
+	width: 1200px;
+	/*height: 1000px;*/
+	border: 1px solid #BBB4B4;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.xi1{
+	margin-top: 20px;
+    line-height: 30px;
+    font-size: 15px;
+}
+.xi1 p{
+	padding-left: 25px;
+}
+.xi1 p:first-child{
+	font-weight: bold;
+	padding-left: 25px;
+	background-color: #DEDFDF;
+}
+.tb{
+	border: solid 1px #BBB4B4;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.tb tr th{
+	border: solid 1px #BBB4B4;
+	text-align: center;
+	font-weight: bold;
+    height: 33px;
+    background-color: #999;
+    color: #fff;
+}
+.tb tr td{
+	border: solid 1px #BBB4B4;
+	text-align: center;
+}
+.tb tr .td1{
+	padding-top: 15px;
+	padding-left: 25px;
+	padding-bottom: 15px;
+}
+.tb tr .td2 .zi{
+	display: block;
+	width: 350px;
+	overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.tb tr .th1{
+	width: 285px;
+}
+.tb tr .th2{
+	width: 350px;
+}
+.tb tr .th3{
+	width: 180px;
+}
+.tb tr .th4{
+	width: 155px;
+}
+.tb tr .th5{
+	width: 195px;
+}
+.tbox{
+	padding-right:70px ;
+	margin-top: 10px;
+	background: #DEDFDF;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.tbox1{
+	float: right;
+	padding-top: 35px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 25px;
+	padding-bottom:50px ;
+
+}
+.tbox2{
+	margin-right: 70px;
+	text-align: center;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #B4B4B4;
+}
+.tp{
+	float: right;
+	margin-right: 70px;
+	margin-top: 5px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 16px;
+}
+.tp span{
+	color: #0066CC;
+}

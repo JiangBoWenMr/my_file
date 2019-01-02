@@ -1,0 +1,199 @@
+.content{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.p1{
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.p1 span a{
+	color: #666
+}
+.box2{
+	margin-top: 15px;
+}
+.box2 img{
+	width: 1200px;
+	height: 300px;
+}
+.lie{
+	margin-top: 15px;
+}
+.lie span{
+	font-size: 16px;
+    line-height: 34px;
+    padding: 6px 25px;
+    background-color: #005BAA;	
+    color: #fff;
+}
+.box3{
+	margin-top: 5px;
+	line-height: 28px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.xuan{
+	float: left;
+	margin-left: 10px;
+}
+.xuan input{
+	float: left;
+	cursor: pointer;
+	margin-top: 8px
+}
+.xuan label{
+	float: left;
+	margin-left: 10px;
+	font-size: 14px
+}
+.box3 span{
+	display: block;
+	float: right;
+	margin-right: 15px;
+	width: 111px;
+    height: 28px;
+    line-height: 28px;
+    cursor: pointer;
+    background: url(../images/emptySpan.jpg) no-repeat;
+    text-indent: -9999px ;
+}
+.box4{
+	width: 1200px;
+	margin: 0 auto;
+	padding-top: 10px;
+	border: solid 1px #BBB4B4;
+}
+.tb{
+	/*border: solid 1px #BBB4B4;*/
+	font-size: 16px;
+	margin: 0 auto;
+	border: solid 1px #BBB4B4;
+}
+.tb tr:first-child th{
+	color: #FFFFFF;
+	background-color: #999;
+	font-weight: bold;
+	text-align: center;
+    height: 33px;
+}
+.tb tr .th1{
+	width: 300px;
+}
+.tb tr .th2{
+	width: 135px
+}
+.tb tr .th3{
+	width: 185px;
+}
+.tb tr .th4{
+	width: 168px;
+}
+.tb tr .th5{
+	width: 250px
+}
+.tb tr .th6{
+	width: 125px
+}
+.tr2 td{
+	padding-top:15px;
+	padding-bottom: 15px;
+}
+.tr2 .td1 input{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.tr2 .td1 a img{
+	width: 90px;
+    height: 90px;
+}
+.tr2 .td1 span{
+	display: block;
+	float: right;
+	margin-right: 5px;
+	width: 160px;
+	font-size: 14px;
+	color: #666;
+	margin-top: 15px;
+}
+.tr2 .td2,.td4,.td5,.td6{
+	text-align: center;
+}
+.tr2 .td3 .cartNumber{
+	text-align: center;
+}
+.tr2 .td3 .cartNumber .in1{
+	width: 25px;
+    height: 25px;
+    line-height: 15px;
+}
+.tr2 .td3 .cartNumber .in2{
+	width: 55px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+}
+.tr2 .td3 .cartNumber .in3{
+	width: 25px;
+    height: 25px;
+    line-height: 15px;
+    color: rgb(201, 23, 53);
+    cursor: pointer;
+}
+.qs{
+	height: 45px;
+    line-height: 45px;
+    font-size: 14px;
+}
+.qs input{
+	float: left;
+	cursor: pointer;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 17px;
+}
+.qs label{
+	float: left;
+}
+.qs span{
+	cursor: pointer;
+	float: left;
+	margin-left: 30px;
+}
+/*.frb .pa2{
+	float: right;
+}
+.frb .pa3{
+	float: right;
+}*/
+.frb{
+	float: right;
+	margin-right: 10px;
+}
+.frb p{
+	display: inline-block;
+}
+.frb .frp1{
+	margin-right: 20px;
+}
+.frb p b{
+	font-size: 16px;
+	color: #FC0C0C;
+}
+.ab{
+	padding: 20px;
+	overflow: hidden;
+}
+.ab .a1{
+	float: left;
+	width: 183px;
+    height: 50px;
+    background: url(../images/immedOrder.png) no-repeat top;
+}
+.ab .a2{
+	float: right;
+	width: 183px;
+    height: 50px;
+    background: url(../images/immedOrder.png) no-repeat bottom;
+}

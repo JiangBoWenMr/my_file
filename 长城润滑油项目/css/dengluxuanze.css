@@ -1,0 +1,101 @@
+.header{
+	width: 1200px;
+	margin: 0 auto;
+	padding-top: 25px;
+	text-align: center;
+}
+.header img{
+	width: 380px;
+	height: 40px;
+}
+.content{
+	width: 100%;
+	height: 537px;
+	margin-top: 25px;
+	background: url(../images/loginChoice_con.png) no-repeat top center;
+}
+.content .box{
+	width: 1200px;
+	margin: 0 auto;
+	padding-top: 55px;
+	
+}
+.content .box h2{
+	width: 778px;
+    height: 60px;
+    margin: 0 auto;
+    background: url(../images/logtitleH2.png) no-repeat;
+    text-indent: -9999px
+}
+.box1{
+	padding-top: 30px;
+	width: 778px;
+	/*background: red;*/
+	/*height: 400px;*/
+	margin: 0 auto;
+}
+.box1 .fl{
+	float: left;
+}
+.box1 .fl img{
+	display: block;
+	width: 352px;
+	height: 164px;
+}
+.box1 .fl .a1{
+	display: block;
+	width: 350px;
+    height: 72px;
+    text-align: center;
+    line-height: 72px;
+	margin-top: 20px;
+	font-size: 26px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background: url(../images/activityLanred.png)no-repeat;
+}
+.box1 .fl .a2{
+	display: block;
+	width: 350px;
+    height: 72px;
+    text-align: center;
+    line-height: 72px;
+	margin-top: 20px;
+	font-size: 26px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background: url(../images/activityLanhover.png)no-repeat;
+}
+.fr img{
+	display: block;
+	width: 352px;
+	height: 164px;
+}
+.fr .a3{
+	display: block;
+	width: 350px;
+    height: 72px;
+    text-align: center;
+    line-height: 72px;
+	margin-top: 20px;
+	font-size: 26px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background: url(../images/activityHui.png)no-repeat;
+}
+.fr .a4{
+	display: block;
+	width: 350px;
+    height: 72px;
+    text-align: center;
+    line-height: 72px;
+	margin-top: 20px;
+	font-size: 26px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background: url(../images/activityLanhover.png)no-repeat;
+}

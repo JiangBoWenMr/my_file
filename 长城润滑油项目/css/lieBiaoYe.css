@@ -1,0 +1,154 @@
+.content{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.p1{
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.p1 span a{
+	color: #666
+}
+.box2{
+	margin-top: 15px;
+}
+.box2 img{
+	width: 1200px;
+	height: 300px;
+}
+.box3{
+	margin-top: 10px;
+	border: solid 1px #ccc;
+    height: 50px;
+    background-color: #E0DEDA;
+}
+.box3 .u_lie{
+	float: left;
+	background-color: #FFF;
+	margin: 9px 0 0 10px;
+    height: 30px;
+    line-height: 30px;
+    border: solid 1px #999;
+}
+.box3 .u_lie li{
+	float: left;
+	color: #666;
+	font-size: 14px;
+	/*text-align: center;*/
+	border-right: solid 1px #999;;
+}
+.box3 .u_lie li:last-child{
+	border-right: none;
+}
+.box3 .u_lie .l1{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.box3 .u_lie li a{
+	color: #666;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+}
+.box3 .u_lie .moren{
+	background: #005BAC;
+}
+.box3 .u_lie .moren a{
+	color: #FFFFFF;
+}
+.box3 .u_lie .yanse a{
+	color: #FFFFFF;
+}
+.box3 .u_lie .yanse{
+	background: #005BAC;
+}
+.box3 .u_lie li a img{
+	width: 10px;
+	height: 11px;
+	top: -1px;
+	left: 2px;
+}
+.box3{
+	position: relative;
+}
+.u_jp{
+	position: absolute;
+	clear: both;
+	width: 120px;
+	text-align: center;
+	font-size: 14px;
+	border: solid 1px #0066CC;
+	top: 41px;
+	left: 300px;
+	background: #FFFFFF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: none;
+}
+.u_jp li{
+	line-height:30px;
+}
+.u_jp li a{
+	text-decoration: none;
+	color: #666;
+}
+.liebiao{
+	/*margin-top: 15px;*/
+	overflow: hidden;
+}
+.ulb li{
+	float: left;
+	width: 290px;
+	height: 380px;
+	/*background: pink;*/
+	margin-left: 13px;
+	margin-top: 15px;
+
+}
+.ulb .lf{
+	margin-left: 0;
+}
+.ulb li a{
+	display: block;
+    border: solid 1px #A9A9A8;
+    text-align: center;
+}
+.ulb li a img{
+	width: 280px;
+    height: 280px;
+}
+.ulb li .lp1{
+	width: 275px;
+    padding: 0 5px 0 10px;
+    line-height: 22px;
+    margin-top: 5px;
+    height: 46px;
+    overflow: hidden;
+    font-size: 14px;
+}
+.ulb li .lp2{
+	font-size: 16px;
+    margin-top: 3px;
+    padding-left: 10px;
+}
+.ulb li .lp2 span{
+	color: #0066CC;
+    font-weight: bold;
+}
+.ulb li .lp3{
+	font-size: 16px;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+.Paging_div{ height:40px; line-height:40px;}
+.Paging_divson a{ float:left; color:#666; border:solid 1px #CECECE; margin-right:5px; padding-left:13px; padding-right:13px; background-color:#F4F4F4;}
+.Paging_divson span{ float:left; margin:0 15px;}
+.Paging_divson a.pagingA{ color:#0066CC; background:none;}
+.Paging_divson a:hover{ color:#0066CC; text-decoration:none;}
+.Paging_divson a.pagingFirst{ border:none; color:#0066CC; background:none;}
+.Paging_divform label{ float:left; color:#666;}
+.Paging_divform input.textInp{ float:left; border:solid 1px #eee; width:35px; height:35px; line-height:35px; text-align:center; margin:0 5px; color:#666;}
+.Paging_divform input.fenYetj_sub{ float:left; border:solid 1px #eee; text-align:center; background-color:#F4F4F4; height:37px; font-family:"微软雅黑"; font-size:14px; width:45px; color:#666; margin-left:7px; cursor:pointer;}

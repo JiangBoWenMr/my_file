@@ -1,0 +1,170 @@
+.header{
+	width: 1200px;
+	margin: 0 auto;
+	padding-top: 40px;
+	margin-bottom: 25px;
+}
+.log{
+	display: block;
+	float: left;
+	width: 380px;
+    height: 40px;
+	margin-left: 50px;
+}
+.header p{
+	clear: both;
+	margin-left: 75px;
+	padding-top: 20px;
+	font-size: 30px;
+	color: red;
+}
+.content{
+	width: 100%;
+	height: 540px;
+	background: red;
+}
+.bg{
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+	background: url(../images/loginBg.png) no-repeat;
+	background-size: 100% 100%;
+}
+.dbox{
+	float: right;
+	width: 355px;
+	height: 425px;
+	margin-top: 50px;
+	margin-right: 50px;
+	background: #FFFFFF;
+}
+.p1{
+	font-size: 20px;
+	margin-top: 30px;
+	margin-left: 35px;
+	margin-bottom: 30px;
+}
+.zh,.mima{
+	width: 280px;
+	height: 40px;
+	margin-left: 35px;
+	margin-top: 30px;
+}
+.zh{
+	background: url(../images/loginNum.png) no-repeat;
+	background-size: 100%;
+}
+.zh input{
+	width: 225px;
+	height: 33px;
+	margin-left: 50px;
+	margin-top: 1px;
+	border: none;
+}
+.mima{
+	background: url(../images/loginPass.png);
+	background-size: 100%;
+}
+.mima input{
+	width: 225px;
+	height: 33px;
+	margin-left: 50px;
+	margin-top: 1px;
+	border: none;
+}
+.tishi1{
+	margin-left: 80px;
+	margin-top: 10px;
+	color: red;
+}
+.tishi2{
+	margin-left: 80px;
+	margin-top: 10px;
+	color: red;
+}
+.dl{
+	width: 280px;
+	height: 40px;
+	margin-left: 35px;
+	margin-top: 20px;
+}
+.dl label,span{
+	font-size: 16px;
+}
+.dl .fin{
+	vertical-align: middle;
+	margin-top: -2px;
+}
+.ma{
+	display: block;
+	float: right;
+	
+}
+.gbox{
+	width: 280px;
+	height: 40px;
+	margin-left: 35px;
+	margin-top: 20px;
+	background: url(../images/lossTx.png) no-repeat;
+	background-size:100% ;
+}
+.delu{
+	width: 280px;
+	height: 50px;
+	margin-left: 35px;
+	margin-top: 10px;
+	background: #FF0000;
+	border: none;
+}
+.delu a{
+	font-size: 18px;
+	color: #FFFFFF;
+}
+.box1{
+	width: 1200px;
+	height: 197px;
+	margin: 0 auto;
+}
+.box1 img{
+	display: block;
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 850px;
+	height: 135px;
+	vertical-align: middle
+	
+}
+.footer{
+	width: 100%;
+	height: 123px;
+	background-color: #999;
+}
+.my_ul{
+	width: 1200px;
+	height: 30px;
+    margin: 0 auto;
+    padding-top:35px ;
+}
+.my_ul li{
+	display: inline-block;
+	float: left;
+	width: 135px;
+	border-right: 2px solid #fff;
+	text-align: center;
+	font-size: 16px;
+}
+.my_ul li:first-child{
+	margin-left: 260px;
+}
+.my_ul li:last-child{
+	border-right: none;
+}
+.my_ul li a{
+	color: #FFFFFF;
+}
+.fp{
+	clear: both;
+	text-align: center;
+	margin-top: 25px;
+	color: #FFFFFF;
+}
