@@ -1,0 +1,395 @@
+.content{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.p1{
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.p1 span a{
+	color: #666
+}
+.box2{
+	margin-top: 15px;
+}
+.box2 img{
+	width: 1200px;
+	height: 300px;
+}
+.lie{
+	margin-top: 15px;
+}
+.lie span{
+	font-size: 16px;
+    line-height: 34px;
+    padding: 6px 25px;
+    background-color: #E10012;	
+    color: #fff;
+}
+.box4{
+	width: 1200px;
+	margin: 0 auto;
+	padding-top: 10px;
+	border: solid 1px #BBB4B4;
+	padding-bottom: 10px;
+	margin-top: 10px;
+}
+.tb{
+	font-size: 16px;
+	margin: 0 auto;
+	border: solid 1px #BBB4B4;
+}
+.tb tr:first-child th{
+	color: #FFFFFF;
+	background-color: #999;
+	font-weight: bold;
+	text-align: center;
+    height: 33px;
+}
+.tb tr .th1{
+	width: 350px;
+}
+.tb tr .th2{
+	width: 170px
+}
+.tb tr .th3{
+	width: 180px;
+}
+.tb tr .th4{
+	width: 183px;
+}
+.tb tr .th5{
+	width: 283px
+}
+
+.tr2 td{
+	padding-top:15px;
+	padding-bottom: 15px;
+}
+.tr2 .td1 input{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.tr2 .td1 a img{
+	width: 90px;
+    height: 90px;
+    margin-left: 30px;
+}
+.tr2 .td1 span{
+	display: block;
+	float: right;
+	margin-right: 5px;
+	width: 160px;
+	font-size: 14px;
+	color: #666;
+	margin-top: 15px;
+}
+.tr2 .td2,.td4,.td5,.td6{
+	text-align: center;
+}
+.td3{
+	text-align: center;
+}
+.qs{
+	height: 45px;
+    line-height: 45px;
+    font-size: 14px;
+}
+
+.qs span{
+	cursor: pointer;
+	float: left;
+	margin-left: 30px;
+}
+.frb{
+	float: left;
+	margin-left: 30px;
+}
+.frb p{
+	display: inline-block;
+	font-size: 18px;
+}
+.frb .frp1{
+	margin-right: 20px;
+}
+.frb p b{
+	font-size: 16px;
+	color: #FC0C0C;
+}
+.ts{
+	margin-top: 15px;
+}
+.ts .zuo{
+	float: left;
+	font-size: 16px;
+    line-height: 34px;
+    padding: 0px 25px;
+    background-color: #E10012;
+    color: #fff;
+   
+}
+.ts .you{
+	float: right;
+	margin-right: 20px;
+	font-size: 16px;
+    line-height: 34px;
+    padding: 0px 25px;
+    background-color: #E10012;
+    color: #fff;
+}
+.dizhi{
+	margin-top: 60px;
+    position: relative;
+    border: #BBB4B4 solid 1px;
+}
+.dizhi h5{
+    padding-left: 25px;
+    font-size: 16px;
+    font-family: '微软雅黑';
+    height: 38px;
+    line-height: 38px;
+    border-bottom: solid 1px #BBB4B4;
+}
+.dizhi_1{
+	padding-bottom: 15px;
+    padding-top: 10px;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    background-color: #F2E5D1;
+    padding-left: 60px;
+    border-bottom: solid 1px #BBB4B4;
+}
+.dizhi_1 .shang input{
+	margin-right: 15px;
+    margin-top: 5px;
+    float: left;
+    cursor: pointer;
+}
+.dizhi_1 .shang span{
+	float: left;
+	margin-right: 12px;
+}
+.dizhi_1 .xia{
+	margin-left: 35px;
+    padding-top: 8px;
+}
+.dizhi_1 .xia a{
+	float: left;
+    font-size: 12px;
+    cursor: pointer;
+    margin-right: 15px;
+    line-height: 22px;
+}
+.xia .xia_1{
+	width: 66px;
+    height: 22px;
+    border-radius: 3px;
+    text-align: center;
+    border: solid 1px #AAA3A3;
+    background-color: #F1F1F1;
+}
+.xzeng{
+	float: right;
+	margin-right: 10px;
+    bottom: 15px;
+    background-color: #E10012;
+    padding: 5px 12px;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.psfs{
+	margin-top: 15px;
+    font-weight: normal;
+}
+.psfs span{
+	height: 34px;
+    line-height: 34px;
+    padding: 0 25px;
+    background-color: #E10012;
+    float: left;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: "微软雅黑";
+}
+.psfs2{
+	margin-top: 60px;
+    border: solid 1px #BBB4B4;
+    padding: 8px 0 5px 8px;
+}
+.psfs3{
+	margin-bottom: 5px;
+	border-collapse: collapse;
+}
+.psfs3 tr:nth-child(1) th{
+	border: solid 1px #D5D5D5;
+    height: 31px;
+}
+.psfs3 tr:nth-child(1) .one{
+	color: #fff;
+    text-align: center;
+    font-size: 18px;
+    font-family: '微软雅黑';
+    width: 280px;
+    background-color: #999;
+}
+.psfs3 tr:nth-child(1) .two{
+	color: #fff;
+    text-align: center;
+    font-size: 18px;
+    font-family: '微软雅黑';
+    width: 700px;
+    background-color: #999;
+}
+.psfs3 tr:nth-child(1) .three{
+	color: #fff;
+    text-align: center;
+    font-size: 18px;
+    font-family: '微软雅黑';
+    width: 192px;
+    background-color: #999;
+}
+.psfs3 tr:nth-child(2) td{
+    height: 31px;
+    border: solid 1px #D5D5D5;
+    background-color: #fff;
+    font-size: 14px;
+    color: #4E4C4C;
+    padding-left: 30px;
+    font-family: "宋体";
+}
+.psfs3 tr:nth-child(2) td:nth-child(1) span{
+	margin-left: 10px;
+}
+.fpxx{
+	margin-top: 65px;
+    border: solid 1px #BBB4B4;
+    padding: 8px 0 5px 8px;
+}
+.fpxx2{
+	margin-bottom: 5px;
+	border-collapse: collapse;
+	width: 1181px;
+}
+.fpxx3 th{
+    border: solid 1px #D5D5D5;
+    height: 31px;
+}
+.fpxx3_1,.ptfp,.fpxx3_3,.fpxx3_5{
+	padding-left: 35px;
+}
+.fpxx3 .fpxx3_1{
+    font-size: 16px;
+    font-family: '微软雅黑';
+    width: 124px;
+    text-align: left;
+}
+.fpxx3 td{
+	height: 31px;
+    border: solid 1px #D5D5D5;
+    background-color: #fff;
+    font-size: 18px;
+    color: #4E4C4C;
+}
+.fpxx3_2{
+	width: 476px;
+}
+.fpxx3_2 .ptfp{
+	width: 476px;
+    border: none;
+    font-size: 16px;
+    font-family: '微软雅黑';
+    height: 31px;
+    line-height: 31px;
+}
+.fpxx3_3{
+    font-size: 16px;
+    font-family: '微软雅黑';
+    width: 124px;
+    text-align: left;
+}
+.fpxx3_4{
+	width: 340px;
+}
+.fpxx3_4 .fpxx3_5{
+	width: 340px;
+    border: none;
+    font-size: 16px;
+    font-family: '微软雅黑';
+    height: 31px;
+    line-height: 31px;
+}
+.fpxx4 th{
+    border: solid 1px #D5D5D5;
+    height: 31px;
+}
+.fpxx4 .fpxx3_1{
+    font-size: 16px;
+    font-family: '微软雅黑';
+    width: 124px;
+    text-align: left;
+}
+.fpxx4 td{
+	height: 31px;
+    border: solid 1px #D5D5D5;
+    background-color: #fff;
+    font-size: 18px;
+    color: #4E4C4C;
+}
+.zj{
+	margin-top: 60px;
+    font-family: '微软雅黑';
+    border-collapse: collapse;
+    border-collapse: collapse;
+}
+.zj td{
+	height: 31px;
+    border: solid 1px #D5D5D5;
+    background-color: #fff;
+    font-size: 18px;
+    color: #4E4C4C;
+    width: 1160px;
+    font-size: 17px;
+}
+.zj_1{
+	padding-left: 40px;
+	font-family: "微软雅黑";
+}
+.zj_1 span{
+	color: #E10012;
+	font-family: "宋体";
+	font-weight: bold;
+}
+.zj_2{
+	padding-left: 40px;
+	font-family: "微软雅黑";
+}
+.zj_2 span{
+	color: #E10012;
+	font-family: "宋体";
+	font-weight: bold;
+}
+.zj_3{
+	padding-left: 40px;
+	font-family: "微软雅黑";
+}
+.zj_3 span{
+	color: #E10012;
+	font-family: "宋体";
+	font-weight: bold;
+}
+.zj_4{
+	text-align: center;
+	font-family: "微软雅黑";
+}
+.zj_4 input{
+	width: 183px;
+    height: 50px;
+    background: url(../images/redImages/fyzj_Tabfist.jpg) no-repeat;
+	text-indent: 9999px;
+	cursor: pointer;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: none;
+}

@@ -1,0 +1,225 @@
+.content{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.p1{
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.p1 span a{
+	color: #666
+}
+.con1{
+	width: 1050px;
+	margin-top: 20px;
+}
+.con1_left{
+	float: left;
+	width: 453px;
+}
+
+
+.con1_right{
+	float:right;
+	width: 558px;
+}
+.con1_right .pg{
+	font-size: 24px;
+	font-weight: bold;
+}
+.con1_right .cxp{
+	width: 520px;
+	height: 120px;
+	background: blue;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 35px;
+	line-height: 120px;
+	color: #FFFFFF;
+} 
+.con1_right .cxp span{
+	font-size: 50px;
+	margin-left: 10px;
+}
+.xzb{
+	margin-top: 30px;
+}
+.xzb span{
+	display: inline-block;
+} 
+.xzb_sp1{
+	font-size:18px ;
+}
+.xzb_sp2{
+ 	font-size: 16px;
+ 	padding: 5px 5px;
+ 	border: 1px solid #CCCCCC;
+ 	margin-left: 80px;
+ 	cursor: pointer;
+}
+.xzb_sp3{
+	font-size: 16px;
+ 	padding: 5px 5px;
+ 	border: 1px solid #CCCCCC;
+ 	margin-left: 10px;
+ 	cursor: pointer;
+}
+.xzb_sp4{
+	font-size: 16px;
+ 	padding: 5px 5px;
+ 	border: 1px solid #CCCCCC;
+ 	margin-left: 10px;
+ 	cursor: pointer;
+}
+.gmd{
+	font-size: 18px;
+}
+.xzd_dt{
+	float: left;
+	width: 155px;
+}
+.xzd_dd{
+	float: left;
+	width: 390px;
+}
+.xzd_fo{
+	float: left;
+	position: relative;
+	width: 100px;
+	height: 32px;
+	margin-right: 20px;
+	display: block;
+	margin-left: 18px;
+	margin-top: -4px;
+}
+.xzd_in1{
+    position: absolute;
+    width: 25px;
+    height: 15px;
+    background: url(../images/cartNumberinp.jpg) no-repeat right bottom;
+    right: 0;
+    bottom: 0;
+    border: none;
+    cursor: pointer;
+}
+.xzd_in2{
+	position: absolute;
+    width: 62px;
+    height: 30px;
+    line-height: 30px;
+    border: #C1B9B9 solid 1px;
+    font-size: 16px;
+    text-align: center;
+}
+.xzd_in3{
+	position: absolute;
+    width: 25px;
+    height: 15px;
+    background: url(../images/cartNumberinp.jpg) no-repeat right top;
+    right: 0;
+    top: 0;
+    border: none;
+    cursor: pointer;
+}
+.xzd_kc{
+	float: left;
+}
+
+.xzb_a1{
+	float: left;
+    width: 183px;
+    height: 51px;
+    background: url(../images/shopGmcar.png) no-repeat;
+    cursor: pointer;
+    text-indent: -9999px;
+}
+.xzb_a2{
+	float: left;
+	width: 183px;
+    height: 51px;
+    background: url(../images/shopGmcar.png) no-repeat right top;
+    cursor: pointer;
+    margin-left: 25px;
+    text-indent: -9999px;
+}
+.con2{
+	width: 100%;
+	margin-top: 25px;
+}
+.con2_left{
+	float: left;
+	width: 250px;
+}
+.con2_left_h{
+	height: 38px;
+    line-height: 38px;
+    background-color: #005BAA;
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.con2_left_d{
+	margin-top: 15px;
+}
+.con2_left_d a{
+	display: block;
+	text-align: center;
+    border: #E1E1E1 solid 1px;
+}
+.con2_left_d a img{
+	width: 246px;
+	height: 246px;
+}
+.con2_left_p{
+	margin-top: 10px;
+	font-size: 16px;
+}
+.con2_left_sp1{
+	color: #0066CC;
+}
+.con2_left_sp2{
+    color: #888;
+    text-decoration: line-through;
+}
+.con2_left_a{
+	display: block;
+	font-size: 16px;
+	margin-top: 15px;
+}
+.con2_right{
+	float: right;
+	width: 925px;
+}
+.con2_right_ul{
+	font-size: 16px;
+	width: 100%;
+	height: 33px;
+	border-bottom: 5px solid #0000FF;
+}
+.con2_right_ul li{
+	float: left;
+    width: 110px;
+    background-color: #93BCE0;
+    margin-right: 2px;
+    height: 33px;
+    line-height: 33px;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}
+.con2_right_ul .jies{
+	background: #0000FF;
+}
+.d_img{
+    padding-top: 10px;
+    text-align: center;
+    display: block;
+}
+.d_img2{
+	padding-top: 10px;
+    text-align: center;
+    display: none;
+}

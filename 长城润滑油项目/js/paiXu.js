@@ -1,6 +1,9 @@
 $(".lic").mousemove(function(){
 	$(this).addClass("moren").siblings().removeClass("moren");
 })
+$(".lic").mouseout(function(){
+	$(this).removeClass("moren")
+})
 
 $(".lic:last-child,.u_jp").mousemove(function(){
 	$(".u_jp").show();
@@ -15,8 +18,3 @@ $(".u_jp li").mousemove(function(){
 })
 
 
-//$(".u_lie li").mousemove(function(){
-//	$(this).addClass("moren").siblings("li").removeClass("moren");
-//	var _index=$(this).index();
-//	$(".u_jp li").eq(_index).show().siblings(".u_jp li").hide();
-//})
